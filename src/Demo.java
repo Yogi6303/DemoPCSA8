@@ -4,7 +4,6 @@ public class Demo {
 		System.out.println("HELLO JAVA");
     // hi from GITHUB
     // Hello Swapneel Gholap
-    // hi
   }
 
 }
